@@ -20,7 +20,6 @@ login_headers = {
 print("\nStarting Scan")
 
 login_page = ""
-csrfString = ''
 
 def passwordBrute(username):
     validUser = username
